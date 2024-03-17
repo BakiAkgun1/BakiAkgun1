@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fretro-futuristic-synthwave-retrowave-styled-night-cityscape-with-sunset-on-background-cover-or-banner-template-for-retro-wave-music-vector-illustration%2F329576340&psig=AOvVaw0lX63-kCbQO93P0Fwd_lIK&ust=1710790991464000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDquZyH_IQDFQAAAAAdAAAAABAZ)
+[![MasterHead]((https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
 <h1 align="center">Hi 👋, I'm Baki</h1>
 <h3 align="center">Software Developer</h3>
 
