@@ -1,4 +1,4 @@
- [![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmini-moss.tumblr.com%2Fpost%2F739764774537134080%2Findigo-nights-twitter-instagram-bluesky&psig=AOvVaw1b8YlRxMNob3HHcYoTAagb&ust=1710789020710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCexfD_-4QDFQAAAAAdAAAAABA4](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flaboratory--8585055530990755%2F&psig=AOvVaw1b8YlRxMNob3HHcYoTAagb&ust=1710789020710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCexfD_-4QDFQAAAAAdAAAAABBn))
+ [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSergei-Fediukov&psig=AOvVaw1b8YlRxMNob3HHcYoTAagb&ust=1710789020710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCexfD_-4QDFQAAAAAdAAAAABBu)
 <h1 align="center">Hi 👋, I'm Baki</h1>
 <h3 align="center">Software Developer</h3>
 
