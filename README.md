@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSergei-Fediukov&psig=AOvVaw1b8YlRxMNob3HHcYoTAagb&ust=1710789020710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCexfD_-4QDFQAAAAAdAAAAABBu)
+ [![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSergei-Fediukov&psig=AOvVaw1b8YlRxMNob3HHcYoTAagb&ust=1710789020710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCexfD_-4QDFQAAAAAdAAAAABBu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSergei-Fediukov&psig=AOvVaw1b8YlRxMNob3HHcYoTAagb&ust=1710789020710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCexfD_-4QDFQAAAAAdAAAAABBu))
 <h1 align="center">Hi 👋, I'm Baki</h1>
 <h3 align="center">Software Developer</h3>
 
