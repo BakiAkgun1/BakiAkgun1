@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Python and R languages**
 
-- 🤝 I’m looking for help with [Reborn Game](https://github.com/BakiAkgun1/Reborn-Game)
-
+- 🤝 I’m looking for help with https://github.com/BakiAkgun1/IMDB-TOP-1000_Recommendation
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/BakiAkgun1?tab=repositories](https://github.com/BakiAkgun1?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@bakiakgun](https://medium.com/@bakiakgun)
 
-- 💬 Ask me about **Java, C**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **bakiakgun@gmail.com**
 
