@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Walk-Aid](https://github.com/BakiAkgun1/Walk--Aid)
 
-- 🌱 I’m currently learning **Python and R languages**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with https://github.com/BakiAkgun1/IMDB-TOP-1000_Recommendation
 - 
