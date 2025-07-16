@@ -1,93 +1,84 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi 👋, I'm Baki</h1>
-<h3 align="center">Computer Engineering Student | AI & DevOps Enthusiast</h3>
+![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
+<h1 align="center">Hi 👋, I'm Baki Akgün</h1>
+<h3 align="center">AI & DevOps Enthusiast | Computer Engineering Student | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bakiakgun1&label=Profile%20views&color=0e75b6&style=flat" alt="bakiakgun1" />
-</p>
-
----
-
-- 🔭 Currently working on:  
-  - 🤖 [Walk-Aid](https://github.com/BakiAkgun1/Walk--Aid): AI-powered walking assistant project using wearable technology  
-  - 🎬 [IMDB-TOP-1000_Recommendation](https://github.com/BakiAkgun1/IMDB-TOP-1000_Recommendation): Movie recommendation system using ML  
-
-- 🌱 Currently learning:  
-  - **DevOps (CI/CD, Docker, GitHub Actions)**  
-  - **Machine Learning with Python (TensorFlow, scikit-learn)**  
-
-- 🧠 Exploring:  
-  - AI model deployment (Flask, FastAPI, Hugging Face)  
-  - MLOps tools (MLflow, DVC)  
-  - Infrastructure automation (Terraform, Ansible)
-
-- 📚 My articles on AI, software, and tech:  
-  [📖 Medium](https://medium.com/@bakiakgun)
-
-- 💬 Ask me about:  
-  **Python, AI/ML, GitHub Actions, Firebase, Flutter**
-
-- 📫 Reach me at:  
-  **bakiakgun@gmail.com**
-
-- ⚡ Fun fact:  
-  **Curiosity drives my code.**
-
----
-
-<h3 align="left">🚀 Featured Projects:</h3>
-
-- 🌟 [Walk-Aid](https://github.com/BakiAkgun1/Walk--Aid)  
-  *A smart wearable system that assists walking using sensor data & ML classification*
-
-- 🎬 [IMDB TOP 1000 Recommender](https://github.com/BakiAkgun1/IMDB-TOP-1000_Recommendation)  
-  *Content-based recommendation engine using NLP techniques*
-
-- 🤖 [ML Based Parkinson Detection](https://github.com/BakiAkgun1/Parkinson-Detection-ML)  
-  *Machine learning pipeline for early detection of Parkinson’s disease*
-
-- 🧪 [AI Disease Detector](https://github.com/BakiAkgun1/AI-Disease-Detection-App)  
-  *Image classification with TensorFlow Lite for disease diagnosis via mobile*
-
-- 🧰 [DevOps CI/CD Demo](https://github.com/BakiAkgun1/CI-CD-Demo)  
-  *Example CI/CD pipeline using GitHub Actions*
-
----
-
-<h3 align="left">📫 Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/baki-akgun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baki akgün" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@bakiakgun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="baki̇akgun" height="30" width="40" />
+  <a href="https://github.com/BakiAkgun1">
+    <img src="https://komarev.com/ghpvc/?username=bakiakgun1&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+### 💼 About Me
+
+🎓 I'm a Computer Engineering student passionate about designing scalable, efficient, and intelligent systems.  
+🚀 My focus lies in **Artificial Intelligence**, **Machine Learning**, and **DevOps** technologies.  
+🧠 I'm actively working on real-world applications involving model training, deployment pipelines, and cloud-based infrastructure.  
+🧑‍💻 I thrive in collaborative, open-source environments and build systems that matter.
+
+---
+
+### 🔍 Current Focus
+
+- 🛠 Developing **AI-powered wearable systems** for healthcare
+- 🌐 Building **DevOps pipelines** with Docker, GitHub Actions, and CI/CD
+- 📈 Training and deploying ML models using **TensorFlow**, **scikit-learn**, **FastAPI**
+- ☁️ Exploring **Cloud Platforms** (AWS, GCP)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Walk-Aid](https://github.com/BakiAkgun1/Walk--Aid) | AI-based wearable system assisting gait control using sensor data | `Python`, `ML`, `Wearables`, `Arduino` |
+| [IMDB Recommender](https://github.com/BakiAkgun1/IMDB-TOP-1000_Recommendation) | Content-based movie recommender using NLP and cosine similarity | `Python`, `Pandas`, `Scikit-learn` |
+| [AI Disease Detection App](https://github.com/BakiAkgun1/AI-Disease-Detection-App) | Mobile-friendly disease classifier using TensorFlow Lite | `TensorFlow`, `Flutter`, `Firebase` |
+| [Parkinson ML Detection](https://github.com/BakiAkgun1/Parkinson-Detection-ML) | Medical condition classifier based on voice data | `ML`, `SVM`, `Data Analysis` |
+| [CI/CD Demo](https://github.com/BakiAkgun1/CI-CD-Demo) | DevOps workflow using GitHub Actions and Docker | `GitHub Actions`, `Docker`, `CI/CD` |
+
+---
+
+### 🧠 Technical Stack
+
+#### Programming & Scripting
+`Python` `Java` `C` `JavaScript` `Dart`
+
+#### AI & ML
+`TensorFlow` `scikit-learn` `Pandas` `Numpy` `OpenCV`
+
+#### DevOps & Tools
+`Git` `Docker` `GitHub Actions` `Linux` `CI/CD`
+
+#### Frontend & App Dev
+`Flutter` `React` `HTML` `CSS` `Bootstrap`
+
+#### Databases
+`MySQL` `Firebase`
+
+---
+
+### 📬 Connect with Me
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/baki-akgun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@bakiakgun" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:bakiakgun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakiakgun1&show_icons=true&theme=default" alt="bakiakgun1 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bakiakgun1&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakiakgun1&" alt="GitHub streak" />
 </p>
