@@ -41,24 +41,32 @@
 
 ---
 
+
 ### 🧠 Technical Stack
 
-#### Programming & Scripting
-`Python` `Java` `C` `JavaScript` `Dart`
-
 #### AI & ML
-`TensorFlow` `scikit-learn` `Pandas` `Numpy` `OpenCV`
+
+`Python` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `OpenCV`
 
 #### DevOps & Tools
-`Git` `Docker` `GitHub Actions` `Linux` `CI/CD`
+
+`Docker` `Kubernetes` `CI/CD` `GitHub Actions` `Linux` `AWS` `Azure` `Git`
+
+#### Programming & Scripting
+
+`Java` `C` `JavaScript`
+
+#### Databases
+
+`MySQL` `PostreSQL` 
 
 #### Frontend & App Dev
-`Flutter` `React` `HTML` `CSS` `Bootstrap`
+
+ `React` `HTML` `CSS` `Bootstrap`
 
 #### Databases
 `MySQL` `Firebase`
 
----
 
 ### 📬 Connect with Me
 
